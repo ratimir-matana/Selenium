@@ -39,7 +39,7 @@ while x == 1:
     driver = webdriver.Firefox(service=service)
 
     # Test Selenium by opening a website
-    driver.get("https://a*******.org/scripts/synastry_chart_acs.php")
+    driver.get("https://a*******.org/*****/synastry_*_*.php")
 
     # Find the input field by name attribute
     input_field1 = driver.find_element(By.NAME, "name1")
