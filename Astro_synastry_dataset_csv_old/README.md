@@ -7,7 +7,7 @@ Selenium script
 - This is just for purpose of demonstration of Python code example using Selenium
 
 The script is used for reading the data from dataset in csv format, then do a calculation
-of synastry aspects beetwen fixed data of first person and second data provided from dataset.
+of synastry aspects between fixed data of first person and second data provided from dataset.
 
 
 CROATIAN:
